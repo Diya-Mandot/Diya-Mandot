@@ -1,6 +1,6 @@
 # Hi, I'm Diya Mandot! 👋
 
-🎓 **CS Major & Math Minor** | **University of Utah Honors College**  
+🎓 **CS Major & Multi-Disciplinary Design Minor** | **University of Utah Honors College**  
 🌟 Passionate about **AI, ML, Design**, and solving real-world problems creatively.  
 
 ---
