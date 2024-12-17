@@ -67,12 +67,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diya-Mandot&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Mandot&layout=compact&theme=dark)  
-
----
-
 ### 📫 **Connect with Me**  
 - 🌐 [Personal Website](https://diyamandot.weebly.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/diya-mandot/)  
